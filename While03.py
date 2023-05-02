@@ -6,7 +6,6 @@ def main(s):
     Returns:
         int: return answer
     """
-    
     i=0
     n=0
     while n<len(s):
@@ -14,4 +13,4 @@ def main(s):
             i=i+1
         n=n+1
     return len(s)-i
-print(main("#@$sdf$$#**985245"))
+print(main("#hashtag@$"))
