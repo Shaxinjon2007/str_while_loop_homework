@@ -14,4 +14,7 @@ def main(s):
         n=n+1
     return i
 print(main("python2023"))
+<<<<<<< HEAD
 
+=======
+>>>>>>> 860089fd9b78dad1c61460d7b7f75df6338e70d9
